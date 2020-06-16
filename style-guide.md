@@ -18,8 +18,13 @@ The designs were created to the following widths:
 
 ### Neutral
 
+<!-- headings -->
 - Very Dark Blue: hsl(234, 12%, 34%)
+
+<!-- font color -->
 - Grayish Blue: hsl(229, 6%, 66%)
+
+<!-- body back -->
 - Very Light Gray: hsl(0, 0%, 98%)
 
 ## Typography
